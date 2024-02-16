@@ -1,1 +1,1 @@
-Základ tvorby objektově orientovaného modelováni s pomocí  Model-View-Controller
+Základ a trénink tvorby objektově orientovaného modelováni s pomocí  Model-View-Controller
